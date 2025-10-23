@@ -1,9 +1,13 @@
 # 👋 Hi, I'm saimter!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;React+%26+Unity+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=800&height=50&color=61DAFB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Game+Developer;Game+%26+Web+Develope+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=800&height=50&color=61DAFB)
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY254M3lweTI4bW5hbnpleXh5Zmh5NzN0a2Y4b2Y3azI2c3dzajJrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.webp" width="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY254M3lweTI4bW5hbnpleXh5Zmh5NzN0a2Y4b2Y3azI2c3dzajJrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.webp" height="200" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGxlaWN0N3N4NWlzaGltYm51Mnd1dHYydGFscTZic3NwZnl6cHI3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vLpclx5lofmqnEswm0/200.webp" height="200" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2xxbWh1Zjgxa20xcGdnenRuZ3Q3YnN2MjZxb256MGdiaTk3NzNudSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RorC7LdGAZ8EanOi1F/200.webp" height="200" />
+
+
 </div>
 
 ## 🛠️ Tech Stack
@@ -35,6 +39,7 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,9 +67,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saimter&theme=tokyo-night)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/saimter/saimter/output/snake.svg)
 
 ## 📫 Connect with me
 
@@ -81,5 +83,4 @@
 
 <div align="center">
   <h3>🎯 "Always coding, always learning, always growing!"</h3>
-  <img src="https://profile-counter.glitch.me/saimter/count.svg" />
 </div>
