@@ -1,11 +1,13 @@
 # 👋 Hi, I'm saimter!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Game+Developer;Game+%26+Web+Develope+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=800&height=50&color=61DAFB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full-Stack+WebGame+%26+Game+Developer;Game+%26+Web+Develope+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=800&height=50&color=61DAFB)
+
+
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY254M3lweTI4bW5hbnpleXh5Zmh5NzN0a2Y4b2Y3azI2c3dzajJrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.webp" height="200" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGxlaWN0N3N4NWlzaGltYm51Mnd1dHYydGFscTZic3NwZnl6cHI3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vLpclx5lofmqnEswm0/200.webp" height="200" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2xxbWh1Zjgxa20xcGdnenRuZ3Q3YnN2MjZxb256MGdiaTk3NzNudSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RorC7LdGAZ8EanOi1F/200.webp" height="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY254M3lweTI4bW5hbnpleXh5Zmh5NzN0a2Y4b2Y3azI2c3dzajJrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.webp" height="180" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGxlaWN0N3N4NWlzaGltYm51Mnd1dHYydGFscTZic3NwZnl6cHI3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vLpclx5lofmqnEswm0/200.webp" height="180" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2xxbWh1Zjgxa20xcGdnenRuZ3Q3YnN2MjZxb256MGdiaTk3NzNudSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RorC7LdGAZ8EanOi1F/200.webp" height="180" />
 
 
 </div>
