@@ -53,18 +53,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saimter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimter&layout=compact&theme=tokyonight" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=saimter&theme=tokyonight" />-->
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimter&theme=tokyonight" />
-</div>
-
+<!--
 ## 🏆 GitHub Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saimter&theme=onedark&column=7" />
 </div>
-
+-->
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saimter&theme=tokyo-night)
