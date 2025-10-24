@@ -1,6 +1,6 @@
 # 👋 Hi, I'm saimter!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full-Stack+WebGame+%26+Game+Developer;Game+%26+Web+Develope+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=800&height=50&color=61DAFB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full-Stack+WebGame+%26+Game+Developer;Game+%26+WebGame+Develope+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=800&height=50&color=61DAFB&typeSpeed=100&delay=6000)
 
 
 
