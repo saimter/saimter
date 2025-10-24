@@ -17,12 +17,11 @@
 ## 🏆 Certifications
 
 
-[![Unity Certified Associate: Game Developer](https://images.credly.com/size/200x200/images/efbaab22-ac28-4815-a6f0-ddfc5b926f3f/Unity_Certified_Associate_Game_Developer.png)](https://www.credly.com/badges/24804)
 
-**🎮 Unity Certified Associate: Game Developer**  
-*Issued by Unity Technologies via Credly*
-
+<!-- Game Developer -->
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unity Game Developer](https://img.shields.io/badge/Unity_Certified-Game_Developer-purple?style=for-the-badge&logo=unity&logoColor=white)
+![Unity Programmer](https://img.shields.io/badge/Unity_Certified-Programmer-green?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Backend
