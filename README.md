@@ -17,19 +17,19 @@
 
 
 <!-- Game Developer -->
+<!--[![Unity Badge](https://external-gmp1-1.xx.fbcdn.net/emg1/v/t13/6068357262237542295?url=https%3A%2F%2Fimages.credly.com%2Fimages%2F99becefb-f627-413c-8ad3-b52534e50037%2Flinkedin_thumb_image.png&fb_obo=1&utld=credly.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p672x350_q75_tt6&_nc_gid=tXL6DahmOlYI3gX5tdjiVg&_nc_oc=AdltoaB2fWwnjoe_voGCakn6iLz_ChRxCNYHdPyqEuRtNJB310jHC60LVLEbg6ezUQg&ccb=13-1&oh=06_Q3-4AftMC4NhKuxbs88JQAcA1Q_bunXAkI2k5TcRiJLEGHHE&oe=68FD6C67&_nc_sid=852c2c)](https://www.credly.com/badges/efbaab22-ac28-4815-a6f0-ddfc5b926f3f)-->
+
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unity Game Developer](https://img.shields.io/badge/Unity_Certified-Game_Developer-purple?style=for-the-badge&logo=unity&logoColor=white)
 ![Unity Programmer](https://img.shields.io/badge/Unity_Certified-Programmer-green?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Backend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![EJS](https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -37,9 +37,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Full Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP](https://img.shields.io/badge/ASP-007396?style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
+
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
