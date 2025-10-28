@@ -64,7 +64,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=saimter&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 
 
@@ -83,12 +82,10 @@
 </div>
 -->
 ## 📈 Activity Graph
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saimter&theme=tokyo-night)
 
 
-## 📫 Connect with me
-
+## 📫 Connect with me ![Profile views](https://komarev.com/ghpvc/?username=saimter&label=Profile%20views&color=0e75b6&style=for-the-badge)
 <div align="center">
   <a href="https://github.com/saimter">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
