@@ -66,23 +66,22 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saimter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimter&layout=compact&theme=tokyonight" />
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=saimter&theme=tokyonight" />-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimter&theme=tokyonight" />
 </div>
 
-<!--
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saimter&theme=onedark&column=7" />
 </div>
--->
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saimter&theme=tokyo-night)
+-->
 
 
 ## 📫 Connect with me ![Profile views](https://komarev.com/ghpvc/?username=saimter&label=Profile%20views&color=0e75b6&style=for-the-badge)
@@ -94,9 +93,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
 ---
-
 <div align="center">
   <h3>🎯 "Always coding, always learning, always growing!"</h3>
 </div>
