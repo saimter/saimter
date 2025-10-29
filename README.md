@@ -1,6 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Game+%26+Full-Stack+WebGame+Developer;Game+%26+WebGame+Dev+Lover;Always+learning+new+things&font=Fira%20Code&center=true&width=800&height=50&color=61DAFB&speed=30&pause=3000)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Game+%26+Full-Stack+WebGame+Developer;Game+%26+WebGame+Dev+Lover;Relentlessly+pursuing+creative+breakthroughs&font=Fira%20Code&center=true&width=800&height=50&color=61DAFB&speed=30&pause=3000)
 <!---->
 
 <!---->
