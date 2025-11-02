@@ -57,13 +57,13 @@ ___
 ![Phaser](https://img.shields.io/badge/Phaser-1C1C1C?style=for-the-badge&logo=phaser&logoColor=white)![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ***
 
-### Server Side Rendderer Full Stack
+### Full Stack(Server Side Rendderer)
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ***
 
 
-### Server Side Scripting Full Stack(Legacy)
+### Legacy Full Stack( Server Side Scripting) 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP](https://img.shields.io/badge/ASP-007396?style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
