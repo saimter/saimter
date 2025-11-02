@@ -57,7 +57,7 @@ ___
 ![Phaser](https://img.shields.io/badge/Phaser-1C1C1C?style=for-the-badge&logo=phaser&logoColor=white)![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ***
 
-### Full Stack(Server Side Rendderer)
+### Full Stack(Server Side Renderer)
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ***
