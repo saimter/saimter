@@ -19,7 +19,7 @@ ___
 
 ## 🛠️ Tech Stack
 
-### Game Development
+### 👾 Game Development 🎮
  🏆 Certifications
 
 
