@@ -47,7 +47,7 @@ ___
 ![Flask](https://img.shields.io/badge/Flask-2.3.3-blue)
 ***
 
-## 🛰️⚡ Full Stack (Server Side Renderer)  
+## 🛰️ Full Stack (Server Side Renderer) ⚡
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ***
