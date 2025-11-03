@@ -43,13 +43,18 @@ ___
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3.3-blue)
 ***
 
 ## 🛰️ Full Stack (Server Side Renderer) ⚡
-![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-0070F3?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!--![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)-->
+
 ***
 
 ## 🌐 Legacy Full Stack (Server Side Scripting)  
