@@ -54,7 +54,6 @@ ___
 
 ## 🛰️ Full Stack (Server Side Renderer) ⚡
 ![Next.js](https://img.shields.io/badge/Next.js-0070F3?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!--![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)-->
 
