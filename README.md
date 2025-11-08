@@ -31,6 +31,21 @@ ___
 
 ## 🛠️ Tech Stack
 
+### 🎨 10단계 그라데이션 색상 코드 (주황 → 파랑)
+
+| 레벨 (Level) | 색상 (Color) | 16진수 코드 (Hex Code) | 색상 예시 |
+| :----------: | :----------: | :--------------------: | :-------: |
+| **1** | 주황         | `#FF6347` | ![#FF6347](https://via.placeholder.com/15/FF6347/000000?text=+) |
+| **2** | 붉은 주황    | `#FF9732` | ![#FF9732](https://via.placeholder.com/15/FF9732/000000?text=+) |
+| **3** | 황갈색       | `#FFCE1D` | ![#FFCE1D](https://via.placeholder.com/15/FFCE1D/000000?text=+) |
+| **4** | 노랑         | `#F6FF09` | ![#F6FF09](https://via.placeholder.com/15/F6FF09/000000?text=+) |
+| **5** | 연두         | `#A8FF09` | ![#A8FF09](https://via.placeholder.com/15/A8FF09/000000?text=+) |
+| **6** | 초록         | `#5AFF0A` | ![#5AFF0A](https://via.placeholder.com/15/5AFF0A/000000?text=+) |
+| **7** | 청록         | `#0BFF58` | ![#0BFF58](https://via.placeholder.com/15/0BFF58/000000?text=+) |
+| **8** | 하늘색       | `#0BF3A0` | ![#0BF3A0](https://via.placeholder.com/15/0BF3A0/000000?text=+) |
+| **9** | 파란색       | `#0C7EE6` | ![#0C7EE6](https://via.placeholder.com/15/0C7EE6/000000?text=+) |
+| **10** | 진한 파랑    | `#192F8A` | ![#192F8A](https://via.placeholder.com/15/192F8A/000000?text=+) |
+
 ### 👾 Game Development 🎮
  🏆 Certifications
 
@@ -52,7 +67,7 @@ ___
 ![MariaDB](https://img.shields.io/badge/MariaDB-FF9732?style=for-the-badge&logo=mariadb&logoColor=white)
 <img src="https://h5games.co.kr/images/mssql_gap.png" alt="MSSQL 아이콘" width="28" height="28">![MSSQL](https://img.shields.io/badge/MSSQL-FF9732?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C7EE6?style=for-the-badge&logo=postgresql&logoColor=white)
-***
+
 <!--
   ![Python](https://img.shields.io/badge/Python-3.10-blue)
   ![Flask](https://img.shields.io/badge/Flask-2.3.3-blue)
@@ -89,6 +104,7 @@ ___
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-FFCE1D?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-0C7EE6?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-0C7EE6?style=for-the-badge&logo=flask&logoColor=white)
+***
 
 
 ## 🧰 Tools & Others  
