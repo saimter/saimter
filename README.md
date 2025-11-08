@@ -47,7 +47,6 @@ ___
 | 주황         | **1** | ![#FF6347](https://img.shields.io/badge/--FF6347?style=flat) |
 -->
 ### 🔢 Skill Level Steps
-
 | Color | Step | English Term | 한국어 표현 | 한국어 주요 특징 (프로젝트 관점) |
 |:------|:----:|:-------------|:-------------|:----------------------------------|
 | ![#FF6347](https://img.shields.io/badge/-%23FF6347-FF6347?style=flat) | 10 | **Architect / Thought Leader** | 아키텍트 / 사상 리더 | 대규모 시스템 설계, 기술 스택 방향 결정 및 혁신 주도. |
@@ -76,9 +75,9 @@ ___
 
 <a href="https://www.credly.com/badges/efbaab22-ac28-4815-a6f0-ddfc5b926f3f/facebook?fbclid=IwY2xjawN4EgpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEejl0y5ES1tOtCvbVv50Y9tH_GSIru9S9nAdPtIfEcsMXn_CSwaJ8lATX0QOA_aem_cN5lqwoqqwUhq_ps5qOcWw" target="_blank" rel="noopener noreferrer"><img src="https://external-gmp1-1.xx.fbcdn.net/emg1/v/t13/6068357262237542295?url=https%3A%2F%2Fimages.credly.com%2Fimages%2F99becefb-f627-413c-8ad3-b52534e50037%2Flinkedin_thumb_image.png&fb_obo=1&utld=credly.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p672x350_q75_tt6&_nc_gid=DEV3p8AgWAWDyjIJjWkGhg&_nc_oc=AdnRv7FByOYeFfNglwuCUj_wcpe5wqI_doY6lCPhHn791enu4BuVOdeNhL85BhHph0M&ccb=13-1&oh=06_Q3-4ASDGBQTlJSbuDx_yjYkvSva1VncH1BeLJ4gcRmGCSa00&oe=690D0627&_nc_sid=852c2c" alt="Unity" width="54" height="54">![Unity](https://img.shields.io/badge/Unity-FF6347?style=for-the-badge&logo=Unity3D&logoColor=white)</a>
 
-![Unity Game Developer](https://img.shields.io/badge/Unity_Certified-Game_Developer-FFCE1D?style=for-the-badge&logo=unity&logoColor=white)
-![Unity Programmer](https://img.shields.io/badge/Unity_Certified-Programmer-FFCE1D?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-FFCE1D?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity Game Developer](https://img.shields.io/badge/Unity_Certified-Game_Developer-F6FF09?style=for-the-badge&logo=unity&logoColor=white)
+![Unity Programmer](https://img.shields.io/badge/Unity_Certified-Programmer-F6FF09?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-F6FF09?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ***
 ## 💾 Database  
@@ -120,7 +119,7 @@ ___
 ## 📈 Backend 📊
 ![Node.js](https://img.shields.io/badge/Node.js-FF9732?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-FF9732?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-FFCE1D?style=for-the-badge&logo=dotnet&logoColor=black)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-F6FF09?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-0C7EE6?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-0C7EE6?style=for-the-badge&logo=flask&logoColor=white)
 ***
