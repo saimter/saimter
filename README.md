@@ -55,10 +55,10 @@ ___
 | ![#F6FF09](https://img.shields.io/badge/-%23F6FF09-F6FF09?style=flat) | 7 | **Advanced / Independent** | 상급 숙련자 / 독립적 수행 | 복잡한 기능을 혼자 설계, 구현, 배포, 예상치 못한 문제 처리 가능. |
 | ![#A8FF09](https://img.shields.io/badge/-%23A8FF09-A8FF09?style=flat) | 6 | **Mid-Level** | 중급 숙련자 | 기능 전체를 완성하고 배포하며, 코드 가독성 및 유지보수에 신경 씀. |
 | ![#5AFF0A](https://img.shields.io/badge/-%235AFF0A-5AFF0A?style=flat) | 5 | **Functional (Published App)** | 기능적 숙련자 (앱 출시 경험) | 상업적/비상업적 앱을 성공적으로 출시하고 운영 경험을 가짐. |
-| ![#0BFF58](https://img.shields.io/badge/-%230BFF58-0BFF58?style=flat) | 4 | **Can Make App (Ready to Publish)** | 앱 제작 가능 (출시 준비) | 출시 직전 단계로, 앱을 완성하고 버그 테스트 및 배포 준비 완료. |
-| ![#0BF3A0](https://img.shields.io/badge/-%230BF3A0-0BF3A0?style=flat) | 3 | **Solid Builder** | 견고한 빌더 | 중간 규모 기능을 혼자 구현하며, 다양한 라이브러리/프레임워크 활용 가능. |
-| ![#0C7EE6](https://img.shields.io/badge/-%230C7EE6-0C7EE6?style=flat) | 2 | **Basic Builder** | 기본 빌더 | 튜토리얼을 벗어나 단순한 기능 조합 및 작은 모듈 구현 가능. |
-| ![#192F8A](https://img.shields.io/badge/-%23192F8A-192F8A?style=flat) | 1 | **Commercial App Ready (Not Published)** | 상업적 앱 제작 완료 (미출시) | 상업적 목적의 앱을 완성했으나 배포(Publish)만 하지 않은 상태. |
+| ![#0C7EE6](https://img.shields.io/badge/-%230C7EE6-0C7EE6?style=flat) | 4 | **Can Make App (Ready to Publish)** | 앱 제작 가능 (출시 준비) | 출시 직전 단계로, 앱을 완성하고 버그 테스트 및 배포 준비 완료. |
+| ![#192F8A](https://img.shields.io/badge/-%23192F8A-192F8A?style=flat) | 3 | **Solid Builder** | 견고한 빌더 | 중간 규모 기능을 혼자 구현하며, 다양한 라이브러리/프레임워크 활용 가능. |
+| ![#B0B0B0](https://img.shields.io/badge/-%23B0B0B0-B0B0B0?style=flat) | | 2 | **Basic Builder** | 기본 빌더 | 튜토리얼을 벗어나 단순한 기능 조합 및 작은 모듈 구현 가능. |
+| ![#000000](https://img.shields.io/badge/-%23000000-000000?style=flat) | | 1 | **Commercial App Ready (Not Published)** | 상업적 앱 제작 완료 (미출시) | 상업적 목적의 앱을 완성했으나 배포(Publish)만 하지 않은 상태. |
 
 
 
@@ -93,8 +93,8 @@ ___
 ***
 
 ## 🛰️ Full Stack (Server Side Renderer) ⚡
-![JavaScript](https://img.shields.io/badge/JavaScript-FF6347?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-0BFF58?style=for-the-badge&logo=flask&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF6347?style=for-the-badge&logo=javascript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-CCFF33?style=for-the-badge&logo=flask&logoColor=black)
 <!--![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)-->
 
 ***
@@ -106,22 +106,22 @@ ___
 ***
 
 ## 🖥️ Frontend  
-![EJS](https://img.shields.io/badge/EJS-0BFF58?style=for-the-badge&logo=ejs&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-FF6347?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFCE1D?style=for-the-badge&logo=css&logoColor=white)
 ![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-FF6347?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-0BFF58?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-0BFF58?style=for-the-badge&logo=vue.js&logoColor=black)
-<img src="https://h5games.co.kr/images/Phaser0C7EE6.png" alt="Phaser 아이콘" width="29" height="29">![Phaser](https://img.shields.io/badge/Phaser-0C7EE6?style=for-the-badge&logo=phaser&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFCE1D?style=for-the-badge&logo=css&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-0C7EE6?style=for-the-badge&logo=ejs&logoColor=white)
+![React](https://img.shields.io/badge/React-0C7EE6?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-0C7EE6?style=for-the-badge&logo=vue.js&logoColor=white)
+<img src="https://h5games.co.kr/images/PhaserB0B0B0.png" alt="Phaser 아이콘" width="29" height="29">![Phaser](https://img.shields.io/badge/Phaser-B0B0B0?style=for-the-badge&logo=phaser&logoColor=white)
 ***
 
 ## 📈 Backend 📊
-![Node.js](https://img.shields.io/badge/Node.js-0BFF58?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![Express](https://img.shields.io/badge/Express-0BFF58?style=for-the-badge&logo=express&logoColor=black)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-F6FF09?style=for-the-badge&logo=dotnet&logoColor=black)
-![Python](https://img.shields.io/badge/Python-0C7EE6?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-0C7EE6?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0C7EE6?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0C7EE6?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B0B0B0?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-B0B0B0?style=for-the-badge&logo=flask&logoColor=white)
 ***
 
 
