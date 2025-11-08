@@ -41,6 +41,7 @@ ___
 
 
 <a href="https://www.credly.com/badges/efbaab22-ac28-4815-a6f0-ddfc5b926f3f/facebook?fbclid=IwY2xjawN4EgpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEejl0y5ES1tOtCvbVv50Y9tH_GSIru9S9nAdPtIfEcsMXn_CSwaJ8lATX0QOA_aem_cN5lqwoqqwUhq_ps5qOcWw" target="_blank" rel="noopener noreferrer"><img src="https://external-gmp1-1.xx.fbcdn.net/emg1/v/t13/6068357262237542295?url=https%3A%2F%2Fimages.credly.com%2Fimages%2F99becefb-f627-413c-8ad3-b52534e50037%2Flinkedin_thumb_image.png&fb_obo=1&utld=credly.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p672x350_q75_tt6&_nc_gid=DEV3p8AgWAWDyjIJjWkGhg&_nc_oc=AdnRv7FByOYeFfNglwuCUj_wcpe5wqI_doY6lCPhHn791enu4BuVOdeNhL85BhHph0M&ccb=13-1&oh=06_Q3-4ASDGBQTlJSbuDx_yjYkvSva1VncH1BeLJ4gcRmGCSa00&oe=690D0627&_nc_sid=852c2c" alt="Unity" width="54" height="54">![Unity](https://img.shields.io/badge/Unity-FF6347?style=for-the-badge&logo=Unity3D&logoColor=white)</a>
+
 ![Unity Game Developer](https://img.shields.io/badge/Unity_Certified-Game_Developer-FFCE1D?style=for-the-badge&logo=unity&logoColor=white)
 ![Unity Programmer](https://img.shields.io/badge/Unity_Certified-Programmer-FFCE1D?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-FFCE1D?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -74,9 +75,9 @@ ___
 ***
 
 ## 🌐 Full Stack Legacy (Server Side Scripting)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-<img src="https://h5games.co.kr/images/asp.png" alt="MS ASP" width="28" height="28">![ASP](https://img.shields.io/badge/ASP-4479A1?style=for-the-badge&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-FF9732?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://h5games.co.kr/images/asp.png" alt="MS ASP" width="28" height="28">![ASP](https://img.shields.io/badge/ASP-FF9732?style=for-the-badge&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-FF9732?style=for-the-badge&logo=php&logoColor=white)
 ***
 
 ## 🖥️ Frontend  
