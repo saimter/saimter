@@ -1,4 +1,16 @@
-
+<!--
+레벨 (Level),색상 (Color),16진수 코드 (Hex Code)
+1,주황,#FF6347
+2,붉은 주황,#FF9732
+3,황갈색,#FFCE1D
+4,노랑,#F6FF09
+5,연두,#A8FF09
+6,초록,#5AFF0A
+7,청록,#0BFF58
+8,하늘색,#0BF3A0
+9,파란색,#0C7EE6
+10,진한 파랑,#192F8A
+-->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Game+%26+Full-Stack+WebGame+Developer;Game+%26+WebGame+Dev+Lover;Relentlessly+pursuing+creative+breakthroughs&font=Fira%20Code&center=true&width=800&height=50&color=61DAFB&speed=30&pause=3000)
 <!---->
@@ -28,25 +40,25 @@ ___
 
 
 
-<a href="https://www.credly.com/badges/efbaab22-ac28-4815-a6f0-ddfc5b926f3f/facebook?fbclid=IwY2xjawN4EgpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEejl0y5ES1tOtCvbVv50Y9tH_GSIru9S9nAdPtIfEcsMXn_CSwaJ8lATX0QOA_aem_cN5lqwoqqwUhq_ps5qOcWw" target="_blank" rel="noopener noreferrer"><img src="https://external-gmp1-1.xx.fbcdn.net/emg1/v/t13/6068357262237542295?url=https%3A%2F%2Fimages.credly.com%2Fimages%2F99becefb-f627-413c-8ad3-b52534e50037%2Flinkedin_thumb_image.png&fb_obo=1&utld=credly.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p672x350_q75_tt6&_nc_gid=DEV3p8AgWAWDyjIJjWkGhg&_nc_oc=AdnRv7FByOYeFfNglwuCUj_wcpe5wqI_doY6lCPhHn791enu4BuVOdeNhL85BhHph0M&ccb=13-1&oh=06_Q3-4ASDGBQTlJSbuDx_yjYkvSva1VncH1BeLJ4gcRmGCSa00&oe=690D0627&_nc_sid=852c2c" alt="Unity" width="54" height="54">![Unity](https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=Unity3D&logoColor=white)</a>
-![Unity Game Developer](https://img.shields.io/badge/Unity_Certified-Game_Developer-purple?style=for-the-badge&logo=unity&logoColor=white)
-![Unity Programmer](https://img.shields.io/badge/Unity_Certified-Programmer-green?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<a href="https://www.credly.com/badges/efbaab22-ac28-4815-a6f0-ddfc5b926f3f/facebook?fbclid=IwY2xjawN4EgpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEejl0y5ES1tOtCvbVv50Y9tH_GSIru9S9nAdPtIfEcsMXn_CSwaJ8lATX0QOA_aem_cN5lqwoqqwUhq_ps5qOcWw" target="_blank" rel="noopener noreferrer"><img src="https://external-gmp1-1.xx.fbcdn.net/emg1/v/t13/6068357262237542295?url=https%3A%2F%2Fimages.credly.com%2Fimages%2F99becefb-f627-413c-8ad3-b52534e50037%2Flinkedin_thumb_image.png&fb_obo=1&utld=credly.com&stp=c0.5000x0.5000f_dst-jpg_flffffff_p672x350_q75_tt6&_nc_gid=DEV3p8AgWAWDyjIJjWkGhg&_nc_oc=AdnRv7FByOYeFfNglwuCUj_wcpe5wqI_doY6lCPhHn791enu4BuVOdeNhL85BhHph0M&ccb=13-1&oh=06_Q3-4ASDGBQTlJSbuDx_yjYkvSva1VncH1BeLJ4gcRmGCSa00&oe=690D0627&_nc_sid=852c2c" alt="Unity" width="54" height="54">![Unity](https://img.shields.io/badge/Unity-FF6347?style=for-the-badge&logo=Unity3D&logoColor=white)</a>
+![Unity Game Developer](https://img.shields.io/badge/Unity_Certified-Game_Developer-FFCE1D?style=for-the-badge&logo=unity&logoColor=white)
+![Unity Programmer](https://img.shields.io/badge/Unity_Certified-Programmer-FFCE1D?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-FFCE1D?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ***
 ## 💾 Database  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-<img src="https://h5games.co.kr/images/mssql_gap.png" alt="MSSQL 아이콘" width="28" height="28">![MSSQL](https://img.shields.io/badge/MSSQL-4479A1?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C7EE6?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://h5games.co.kr/images/mssql_gap.png" alt="MSSQL 아이콘" width="28" height="28">![MSSQL](https://img.shields.io/badge/MSSQL-FF9732?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF9732?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-FF9732?style=for-the-badge&logo=mariadb&logoColor=white)
 ***
 
 ## 📈 Backend 📊
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0075C9?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-EFEFEF?style=for-the-badge&logo=flask&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-FF9732?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-FF9732?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-FFCE1D?style=for-the-badge&logo=dotnet&logoColor=black)
+![Python](https://img.shields.io/badge/Python-0C7EE6?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0C7EE6?style=for-the-badge&logo=flask&logoColor=black)
 
 <!--
   ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -56,7 +68,7 @@ ___
 
 ## 🛰️ Full Stack (Server Side Renderer) ⚡
 ![Next.js](https://img.shields.io/badge/Next.js-0070F3?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF6347?style=for-the-badge&logo=javascript&logoColor=black)
 <!--![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)-->
 
 ***
