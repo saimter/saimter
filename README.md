@@ -100,25 +100,25 @@ ___
 ***
 
 ## 🌐 Full Stack Legacy (Server Side Scripting)  
-![PHP](https://img.shields.io/badge/PHP-FF9732?style=for-the-badge&logo=php&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-FF9732?style=for-the-badge&logo=dotnet&logoColor=white)
-<img src="https://h5games.co.kr/images/asp.png" alt="MS ASP" width="28" height="28">![ASP](https://img.shields.io/badge/ASP-FF9732?style=for-the-badge&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-FF6347?style=for-the-badge&logo=php&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-FF6347?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://h5games.co.kr/images/asp.png" alt="MS ASP" width="28" height="28">![ASP](https://img.shields.io/badge/ASP-FF6347?style=for-the-badge&logoColor=white)
 ***
 
 ## 🖥️ Frontend  
-![EJS](https://img.shields.io/badge/EJS-FF9732?style=for-the-badge&logo=ejs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-FF9732?style=for-the-badge&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF9732?style=for-the-badge&logo=html5&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-FF6347?style=for-the-badge&logo=ejs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-FF6347?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF9732?style=for-the-badge&logo=css&logoColor=white)
-![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-FF9732?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-0C7EE6?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-0C7EE6?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 <img src="https://h5games.co.kr/images/Phaser.png" alt="Phaser 아이콘" width="29" height="29">![Phaser](https://img.shields.io/badge/Phaser-0C7EE6?style=for-the-badge&logo=phaser&logoColor=white)
 ***
 
 ## 📈 Backend 📊
-![Node.js](https://img.shields.io/badge/Node.js-FF9732?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-FF9732?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF6347?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-FF6347?style=for-the-badge&logo=express&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-F6FF09?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-0C7EE6?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-0C7EE6?style=for-the-badge&logo=flask&logoColor=white)
