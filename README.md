@@ -81,14 +81,14 @@ ___
 ***
 
 ## 🖥️ Frontend  
-![EJS](https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<img src="https://h5games.co.kr/images/Phaser.png" alt="Phaser 아이콘" width="29" height="29">![Phaser](https://img.shields.io/badge/Phaser-1C1C1C?style=for-the-badge&logo=phaser&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-FF9732?style=for-the-badge&logo=ejs&logoColor=white)
+![React](https://img.shields.io/badge/React-0C7EE6?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-0C7EE6?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-FF9732?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF9732?style=for-the-badge&logo=css&logoColor=white)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-FF9732?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://h5games.co.kr/images/Phaser.png" alt="Phaser 아이콘" width="29" height="29">![Phaser](https://img.shields.io/badge/Phaser-0C7EE6?style=for-the-badge&logo=phaser&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-FF9732?style=for-the-badge&logo=jquery&logoColor=white)
 ***
 
 ## 🧰 Tools & Others  
