@@ -33,19 +33,6 @@ ___
 
 ### 🎨 개발 레벨 10단계 그라데이션 색상표
 <!--
-| 색상 (Color) | 레벨 (Level) | 색상 예시 |
-| :----------: | :----------: | :-------: |
-| 진한 파랑    | **10** | ![#192F8A](https://img.shields.io/badge/--192F8A?style=flat) |
-| 파란색       | **9** | ![#0C7EE6](https://img.shields.io/badge/--0C7EE6?style=flat) |
-| 하늘색       | **8** | ![#0BF3A0](https://img.shields.io/badge/--0BF3A0?style=flat) |
-| 청록         | **7** | ![#0BFF58](https://img.shields.io/badge/--0BFF58?style=flat) |
-| 초록         | **6** | ![#5AFF0A](https://img.shields.io/badge/--5AFF0A?style=flat) |
-| 연두         | **5** | ![#A8FF09](https://img.shields.io/badge/--A8FF09?style=flat) |
-| 노랑         | **4** | ![#F6FF09](https://img.shields.io/badge/--F6FF09?style=flat) |
-| 황갈색       | **3** | ![#FFCE1D](https://img.shields.io/badge/--FFCE1D?style=flat) |
-| 붉은 주황    | **2** | ![#FF9732](https://img.shields.io/badge/--FF9732?style=flat) |
-| 주황         | **1** | ![#FF6347](https://img.shields.io/badge/--FF6347?style=flat) |
--->
 ### 🔢 Skill Level Steps
 | Color | Step | English Term | 한국어 표현 | 한국어 주요 특징 (프로젝트 관점) |
 |:------|:----:|:-------------|:-------------|:----------------------------------|
@@ -59,8 +46,20 @@ ___
 | ![#192F8A](https://img.shields.io/badge/-%23192F8A-192F8A?style=flat) | 3 | **Solid Builder** | 견고한 빌더 | 중간 규모 기능을 혼자 구현하며, 다양한 라이브러리/프레임워크 활용 가능. |
 | ![#B0B0B0](https://img.shields.io/badge/-%23B0B0B0-B0B0B0?style=flat) | | 2 | **Basic Builder** | 기본 빌더 | 튜토리얼을 벗어나 단순한 기능 조합 및 작은 모듈 구현 가능. |
 | ![#000000](https://img.shields.io/badge/-%23000000-000000?style=flat) | | 1 | **Commercial App Ready (Not Published)** | 상업적 앱 제작 완료 (미출시) | 상업적 목적의 앱을 완성했으나 배포(Publish)만 하지 않은 상태. |
-
-
+-->
+### 🔢 Skill Level Steps
+| Color | Step | English Term | 한국어 표현 | 한국어 주요 특징 (프로젝트 관점) |
+|:------|:----:|:-------------|:-------------|:----------------------------------|
+| ![#FF6347](https://img.shields.io/badge/Architect-FF6347?style=flat) | 10 | **Architect / Thought Leader** | 아키텍트 / 사상 리더 | 대규모 시스템 설계, 기술 스택 방향 결정 및 혁신 주도. |
+| ![#FF9732](https://img.shields.io/badge/Expert-FF9732?style=flat) | 9 | **Expert / SME** | 전문가 / 핵심 인력 | 특정 분야 표준 확립, 복잡한 시스템의 구조적 문제 해결. |
+| ![#FFCE1D](https://img.shields.io/badge/Professional-FFCE1D?style=flat) | 8 | **Professional / Senior** | 프로페셔널 / 시니어 | 프로젝트 전반을 독립적으로 주도하고, 주니어 작업 관리 및 리뷰. |
+| ![#F6FF09](https://img.shields.io/badge/Advanced-F6FF09?style=flat) | 7 | **Advanced / Independent** | 상급 숙련자 / 독립적 수행 | 복잡한 기능을 혼자 설계, 구현, 배포, 예상치 못한 문제 처리 가능. |
+| ![#A8FF09](https://img.shields.io/badge/MidLevel-A8FF09?style=flat) | 6 | **Mid-Level** | 중급 숙련자 | 기능 전체를 완성하고 배포하며, 코드 가독성 및 유지보수에 신경 씀. |
+| ![#5AFF0A](https://img.shields.io/badge/Functional-5AFF0A?style=flat) | 5 | **Functional (Published App)** | 기능적 숙련자 (앱 출시 경험) | 상업적/비상업적 앱을 성공적으로 출시하고 운영 경험을 가짐. |
+| ![#0C7EE6](https://img.shields.io/badge/CanMakeApp-0C7EE6?style=flat) | 4 | **Can Make App (Ready to Publish)** | 앱 제작 가능 (출시 준비) | 출시 직전 단계로, 앱을 완성하고 버그 테스트 및 배포 준비 완료. |
+| ![#192F8A](https://img.shields.io/badge/SolidBuilder-192F8A?style=flat) | 3 | **Solid Builder** | 견고한 빌더 | 중간 규모 기능을 혼자 구현하며, 다양한 라이브러리/프레임워크 활용 가능. |
+| ![#B0B0B0](https://img.shields.io/badge/BasiBuilderc-B0B0B0?style=flat) | | 2 | **Basic Builder** | 기본 빌더 | 튜토리얼을 벗어나 단순한 기능 조합 및 작은 모듈 구현 가능. |
+| ![#000000](https://img.shields.io/badge/AppReady-000000?style=flat) | | 1 | **Commercial App Ready (Not Published)** | 상업적 앱 제작 완료 (미출시) | 상업적 목적의 앱을 완성했으나 배포(Publish)만 하지 않은 상태. |
 
 
 
