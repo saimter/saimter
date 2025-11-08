@@ -48,10 +48,39 @@ ___
 
 ***
 ## 💾 Database  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C7EE6?style=for-the-badge&logo=postgresql&logoColor=white)
-<img src="https://h5games.co.kr/images/mssql_gap.png" alt="MSSQL 아이콘" width="28" height="28">![MSSQL](https://img.shields.io/badge/MSSQL-FF9732?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF9732?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-FF9732?style=for-the-badge&logo=mariadb&logoColor=white)
+<img src="https://h5games.co.kr/images/mssql_gap.png" alt="MSSQL 아이콘" width="28" height="28">![MSSQL](https://img.shields.io/badge/MSSQL-FF9732?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C7EE6?style=for-the-badge&logo=postgresql&logoColor=white)
+***
+<!--
+  ![Python](https://img.shields.io/badge/Python-3.10-blue)
+  ![Flask](https://img.shields.io/badge/Flask-2.3.3-blue)
+-->
+***
+
+## 🛰️ Full Stack (Server Side Renderer) ⚡
+![JavaScript](https://img.shields.io/badge/JavaScript-FF6347?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-0C7EE6?style=for-the-badge&logo=flask&logoColor=white)
+<!--![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)-->
+
+***
+
+## 🌐 Full Stack Legacy (Server Side Scripting)  
+![PHP](https://img.shields.io/badge/PHP-FF9732?style=for-the-badge&logo=php&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-FF9732?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://h5games.co.kr/images/asp.png" alt="MS ASP" width="28" height="28">![ASP](https://img.shields.io/badge/ASP-FF9732?style=for-the-badge&logoColor=white)
+***
+
+## 🖥️ Frontend  
+![EJS](https://img.shields.io/badge/EJS-FF9732?style=for-the-badge&logo=ejs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-FF9732?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF9732?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF9732?style=for-the-badge&logo=css&logoColor=white)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-FF9732?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-0C7EE6?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-0C7EE6?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+<img src="https://h5games.co.kr/images/Phaser.png" alt="Phaser 아이콘" width="29" height="29">![Phaser](https://img.shields.io/badge/Phaser-0C7EE6?style=for-the-badge&logo=phaser&logoColor=white)
 ***
 
 ## 📈 Backend 📊
@@ -61,35 +90,6 @@ ___
 ![Python](https://img.shields.io/badge/Python-0C7EE6?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-0C7EE6?style=for-the-badge&logo=flask&logoColor=white)
 
-<!--
-  ![Python](https://img.shields.io/badge/Python-3.10-blue)
-  ![Flask](https://img.shields.io/badge/Flask-2.3.3-blue)
--->
-***
-
-## 🛰️ Full Stack (Server Side Renderer) ⚡
-![Next.js](https://img.shields.io/badge/Next.js-0C7EE6?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF6347?style=for-the-badge&logo=javascript&logoColor=black)
-<!--![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)-->
-
-***
-
-## 🌐 Full Stack Legacy (Server Side Scripting)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-FF9732?style=for-the-badge&logo=dotnet&logoColor=white)
-<img src="https://h5games.co.kr/images/asp.png" alt="MS ASP" width="28" height="28">![ASP](https://img.shields.io/badge/ASP-FF9732?style=for-the-badge&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-FF9732?style=for-the-badge&logo=php&logoColor=white)
-***
-
-## 🖥️ Frontend  
-![EJS](https://img.shields.io/badge/EJS-FF9732?style=for-the-badge&logo=ejs&logoColor=white)
-![React](https://img.shields.io/badge/React-0C7EE6?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-0C7EE6?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-FF9732?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF9732?style=for-the-badge&logo=css&logoColor=white)
-![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-FF9732?style=for-the-badge&logo=html5&logoColor=white)
-<img src="https://h5games.co.kr/images/Phaser.png" alt="Phaser 아이콘" width="29" height="29">![Phaser](https://img.shields.io/badge/Phaser-0C7EE6?style=for-the-badge&logo=phaser&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-FF9732?style=for-the-badge&logo=jquery&logoColor=white)
-***
 
 ## 🧰 Tools & Others  
 ![Git](https://img.shields.io/badge/Git-0C7EE6?style=for-the-badge&logo=git&logoColor=white)
