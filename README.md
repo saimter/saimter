@@ -58,7 +58,7 @@ ___
 ![Express](https://img.shields.io/badge/Express-FF9732?style=for-the-badge&logo=express&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-FFCE1D?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-0C7EE6?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-0C7EE6?style=for-the-badge&logo=flask&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-0C7EE6?style=for-the-badge&logo=flask&logoColor=white)
 
 <!--
   ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -67,7 +67,7 @@ ___
 ***
 
 ## 🛰️ Full Stack (Server Side Renderer) ⚡
-![Next.js](https://img.shields.io/badge/Next.js-0070F3?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0C7EE6?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF6347?style=for-the-badge&logo=javascript&logoColor=black)
 <!--![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)-->
 
