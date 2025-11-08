@@ -118,11 +118,11 @@ ___
 
 ## 📫 Connect with me ![Profile views](https://komarev.com/ghpvc/?username=saimter&label=Profile%20views&color=0e75b6&style=for-the-badge)
 <div align="center">
-  <a href="https://github.com/saimter">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:saimter@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF6347?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/saimter">
+    <img src="https://img.shields.io/badge/GitHub-0C7EE6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
