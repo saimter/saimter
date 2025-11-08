@@ -119,7 +119,7 @@ ___
 ## 📈 Backend 📊
 ![Node.js](https://img.shields.io/badge/Node.js-FF9732?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-F6FF09?style=for-the-badge&logo=dotnet&logoColor=black)
-![Express](https://img.shields.io/badge/Express-0C7EE6?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-5AFF0A?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-B0B0B0?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-B0B0B0?style=for-the-badge&logo=flask&logoColor=white)
 ***
