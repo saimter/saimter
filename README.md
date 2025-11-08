@@ -109,7 +109,7 @@ ___
 ![EJS](https://img.shields.io/badge/EJS-FF6347?style=for-the-badge&logo=ejs&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-FF6347?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF9732?style=for-the-badge&logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFCE1D?style=for-the-badge&logo=css&logoColor=white)
 ![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-0C7EE6?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-0C7EE6?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
