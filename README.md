@@ -58,8 +58,8 @@ ___
 | ![#5AFF0A](https://img.shields.io/badge/Functional-5AFF0A?style=flat) | 5 | **Functional (Published App)** | 기능적 숙련자 (앱 출시 경험) | 상업적/비상업적 앱을 성공적으로 출시하고 운영 경험을 가짐. |
 | ![#0C7EE6](https://img.shields.io/badge/CanMakeApp-0C7EE6?style=flat) | 4 | **Can Make App (Ready to Publish)** | 앱 제작 가능 (출시 준비) | 출시 직전 단계로, 앱을 완성하고 버그 테스트 및 배포 준비 완료. |
 | ![#192F8A](https://img.shields.io/badge/SolidBuilder-192F8A?style=flat) | 3 | **Solid Builder** | 견고한 빌더 | 중간 규모 기능을 혼자 구현하며, 다양한 라이브러리/프레임워크 활용 가능. |
-| ![#B0B0B0](https://img.shields.io/badge/BasiBuilderc-B0B0B0?style=flat) | | 2 | **Basic Builder** | 기본 빌더 | 튜토리얼을 벗어나 단순한 기능 조합 및 작은 모듈 구현 가능. |
-| ![#000000](https://img.shields.io/badge/AppReady-000000?style=flat) | | 1 | **Commercial App Ready (Not Published)** | 상업적 앱 제작 완료 (미출시) | 상업적 목적의 앱을 완성했으나 배포(Publish)만 하지 않은 상태. |
+| ![#B0B0B0](https://img.shields.io/badge/BasiBuilderc-B0B0B0?style=flat) | 2 | **Basic Builder** | 기본 빌더 | 튜토리얼을 벗어나 단순한 기능 조합 및 작은 모듈 구현 가능. |
+| ![#000000](https://img.shields.io/badge/AppReady-000000?style=flat) | 1 | **Commercial App Ready (Not Published)** | 상업적 앱 제작 완료 (미출시) | 상업적 목적의 앱을 완성했으나 배포(Publish)만 하지 않은 상태. |
 
 
 
