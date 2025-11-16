@@ -72,7 +72,7 @@ ___
 
 
 
-<a href="https://www.credly.com/badges/efbaab22-ac28-4815-a6f0-ddfc5b926f3f/facebook?fbclid=IwY2xjawN4EgpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEejl0y5ES1tOtCvbVv50Y9tH_GSIru9S9nAdPtIfEcsMXn_CSwaJ8lATX0QOA_aem_cN5lqwoqqwUhq_ps5qOcWw" target="_blank" rel="noopener noreferrer"><img src="https://h5games.co.kr/images/github_uca.png" alt="Unity" width="54" height="54">![Unity](https://img.shields.io/badge/Unity-FF6347?style=for-the-badge&logo=Unity3D&logoColor=white)</a>
+<a href="https://www.credly.com/badges/efbaab22-ac28-4815-a6f0-ddfc5b926f3f/facebook?fbclid=IwY2xjawN4EgpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEejl0y5ES1tOtCvbVv50Y9tH_GSIru9S9nAdPtIfEcsMXn_CSwaJ8lATX0QOA_aem_cN5lqwoqqwUhq_ps5qOcWw" target="_blank" rel="noopener noreferrer"><img src="https://h5games.co.kr/images/github_uca.png" alt="Unity 인증"  alt="Unity" width="44" height="44">![Unity](https://img.shields.io/badge/Unity-FF6347?style=for-the-badge&logo=Unity3D&logoColor=white)</a>
 
 ![Unity Game Developer](https://img.shields.io/badge/Unity_Certified-Game_Developer-F6FF09?style=for-the-badge&logo=unity&logoColor=white)
 ![Unity Programmer](https://img.shields.io/badge/Unity_Certified-Programmer-F6FF09?style=for-the-badge&logo=unity&logoColor=white)
@@ -82,7 +82,7 @@ ___
 ## 💾 Database  
 ![MySQL](https://img.shields.io/badge/MySQL-FF9732?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-FF9732?style=for-the-badge&logo=mariadb&logoColor=white)
-<img src="https://h5games.co.kr/images/mssqlFF9732.png" alt="MSSQL 아이콘" width="28" height="28">![MSSQL](https://img.shields.io/badge/MSSQL-FF9732?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white)
+<img src="https://h5games.co.kr/images/mssqlFF9732.png" alt="MSSQL 아이콘" width="28.5" height="28.5">![MSSQL](https://img.shields.io/badge/MSSQL-FF9732?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5AFF0A?style=for-the-badge&logo=postgresql&logoColor=black)
 
 <!--
