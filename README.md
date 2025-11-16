@@ -82,7 +82,7 @@ ___
 ## 💾 Database  
 ![MySQL](https://img.shields.io/badge/MySQL-FF9732?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-FF9732?style=for-the-badge&logo=mariadb&logoColor=white)
-<img src="https://h5games.co.kr/images/mssqlFF9732.png" alt="MSSQL 아이콘" width="28.5" height="28.5">![MSSQL](https://img.shields.io/badge/MSSQL-FF9732?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white)
+<img src="https://h5games.co.kr/images/mssqlFF9732.png" alt="MSSQL 아이콘" width="28" height="28">![MSSQL](https://img.shields.io/badge/MSSQL-FF9732?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5AFF0A?style=for-the-badge&logo=postgresql&logoColor=black)
 
 <!--
