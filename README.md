@@ -113,6 +113,7 @@ ___
 ![Vue.js](https://img.shields.io/badge/Vue.js-A8FF09?style=for-the-badge&logo=vue.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FFCE1D?style=for-the-badge&logo=css&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0C7EE6?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0C7EE6?style=for-the-badge&logo=typescript&logoColor=white)
 <img src="https://h5games.co.kr/images/PhaserB0B0B0.png" alt="Phaser 아이콘" width="28" height="28">![Phaser](https://img.shields.io/badge/Phaser-B0B0B0?style=for-the-badge&logo=phaser&logoColor=white)
 ***
 
