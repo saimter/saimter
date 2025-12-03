@@ -107,14 +107,14 @@ ___
 ## 🖥️ Frontend  
 ![React](https://img.shields.io/badge/React-FF6347?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-FF6347?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF9732?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FF9732?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF9732?style=for-the-badge&logo=css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-FF6347?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-A8FF09?style=for-the-badge&logo=ejs&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFCE1D?style=for-the-badge&logo=css&logoColor=white)
 <img src="https://h5games.co.kr/images/PhaserB0B0B0.png" alt="Phaser 아이콘" width="28" height="28">![Phaser](https://img.shields.io/badge/Phaser-B0B0B0?style=for-the-badge&logo=phaser&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0C7EE6?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0C7EE6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ***
 
