@@ -92,8 +92,8 @@ ___
 ***
 
 ## 🛰️ Full Stack (Server Side Renderer) ⚡
+![Next.js](https://img.shields.io/badge/Next.js-FF6347?style=for-the-badge&logo=flask&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF6347?style=for-the-badge&logo=javascript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-FF9732?style=for-the-badge&logo=flask&logoColor=black)
 <!--![Next.js](https://img.shields.io/badge/Next.js-Framework-blue?logo=next.js)-->
 
 ***
@@ -105,11 +105,11 @@ ___
 ***
 
 ## 🖥️ Frontend  
+![React](https://img.shields.io/badge/React-FF6347?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-FF6347?style=for-the-badge&logo=vue.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-FF6347?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-FF6347?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-FF9732?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-FF9732?style=for-the-badge&logo=vue.js&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-A8FF09?style=for-the-badge&logo=ejs&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FFCE1D?style=for-the-badge&logo=css&logoColor=white)
 <img src="https://h5games.co.kr/images/PhaserB0B0B0.png" alt="Phaser 아이콘" width="28" height="28">![Phaser](https://img.shields.io/badge/Phaser-B0B0B0?style=for-the-badge&logo=phaser&logoColor=white)
@@ -120,10 +120,11 @@ ___
 
 ## 📈 Backend 📊
 ![Node.js](https://img.shields.io/badge/Node.js-FF6347?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF6347?style=for-the-badge&logo=python&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-FFCE1D?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-A8FF09?style=for-the-badge&logo=express&logoColor=black)
-![Python](https://img.shields.io/badge/Python-0C7EE6?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-0C7EE6?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C7EE6?style=for-the-badge&logo=django&logoColor=white)
 ***
 
 
